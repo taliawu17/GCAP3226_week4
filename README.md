@@ -1,6 +1,6 @@
-# Week 3 (MSW survey · regression)
+# Week 4 (critical review · Public healthcare fees and charges reform)
 
-Hong Kong municipal solid waste (MSW) charging survey data. Practice **association** language, charts, and linear regression in **GitHub Codespaces**, with short **Input → Process → Output** AI prompts.
+Hong Kong public hospital fee reform and A&E half-year figures. Practise critically reviewing a government success claim against published evidence (decision/KPI clarity → data gaps → claim→evidence), then in Codespaces compute percentage change, make a grouped bar chart, and write a short judgment—with Input → Process → Output AI prompts where needed.
 
 ---
 
@@ -19,6 +19,6 @@ Hong Kong municipal solid waste (MSW) charging survey data. Practice **associati
 2. Open **Source Control** (left sidebar, branch icon).  
 3. Click **Commit & Push**.  
 4. Type a **commit message** → click **Commit**.  
-5. On github.com, open `W3_msw_inclass.ipynb` in your fork → copy the browser URL.  
+5. On github.com, open `W4_ae_inclass.ipynb` in your fork → copy the browser URL.  
 6. Paste that **URL** on Moodle.
 
